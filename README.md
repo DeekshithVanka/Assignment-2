@@ -7,7 +7,7 @@ D. Run the  html page now.<br>
 
 Note:
 1. To solve the CORS issue, run the  html file in chrome browser after disabling security the using command  " chrome.exe --user-data-dir="C://chrome-dev-disabled-security" --disable-web-security --disable-site-isolation-trials "
-2. URL should contain generated token appended to it in my case => "(URLname)?ghtoken(tokenid)" . Here i am talking about changing your repo so keep token of yours
+2. URL should contain generated token appended to it in my case => "(URLname)?ghtoken=(tokenid)" . Here i am talking about changing your repo so keep token of yours
 
 output:
 1. change of yaml file contents according to the google sheets
