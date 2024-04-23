@@ -11,4 +11,4 @@ Note:
 
 output:
 1. change of yaml file contents according to the google sheets
-2. display of all that contents inside the text area
+2. display of all that contents inside the text area box on webpage
