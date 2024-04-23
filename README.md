@@ -1,8 +1,8 @@
 Task 2:<br>
-A. Publish the Updated Google sheet and get a link
-B. It should be assigned to the resources variable
-C. Change $org variable to your username
-D. Run the  html page now.
+A. Publish the Updated Google sheet and get a link<br>
+B. It should be assigned to the resources variable<br>
+C. Change $org variable to your username<br>
+D. Run the  html page now.<br>
 <br>
 
 Note:
